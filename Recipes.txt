@@ -7,3 +7,11 @@ Kheer
 pasta
 idly
 chicken
+  
+  
+  
+caroot
+pizza
+juice
+
+thank you;
